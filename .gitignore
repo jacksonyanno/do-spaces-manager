@@ -1,0 +1,22 @@
+# Python #
+*.log
+*.pot
+*.pyc
+*.py[cod]
+__pycache__/
+env/
+.env
+venv/
+.venv
+venv-*
+
+# Visual Studio Code # 
+.vscode/
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+
+# Others #
+downloads/
